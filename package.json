@@ -107,4 +107,7 @@
     "typescript": "5.5.4",
     "webdriverio": "8.40.5"
   }
+  "appium": {
+    "version": ">=2.0.0"
+}
 }
